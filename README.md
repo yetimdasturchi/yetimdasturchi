@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuchehr Usmonov</h1>
 <h3 align="center">Tech-loving developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yetimdasturchi&label=Profile%20views&color=0e75b6&style=flat" alt="yetimdasturchi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yetimdasturchi" alt="yetimdasturchi" /></a> </p>
-
 - 🌱 I’m currently learning **ARM architecture family**
 
 - 👨‍💻 All of my projects are available at [https://manu.uz/](https://manu.uz/)
