@@ -82,6 +82,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://t.me/yetim_robot?startapp">
+    <img src="articles.svg" width="900" height="900"  alt="articles image"  />
+  </a>
+</div>
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
+</div>
